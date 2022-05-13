@@ -1,0 +1,7 @@
+# ninja log v5
+2	274	1652440680906747934	CMakeFiles/untitled.dir/MVS_FizzBuzz.cpp.o	7e71cef072533e5a
+0	674	1652440681307296535	CMakeFiles/untitled.dir/main.cpp.o	9e194d927d39b2bb
+2	276	1652441074110601551	CMakeFiles/untitled.dir/MVS_FizzBuzz.cpp.o	7e71cef072533e5a
+277	366	1652441074204886664	untitled	caf1dd27e1a083f6
+3	456	1652441083964619071	CMakeFiles/untitled.dir/main.cpp.o	9e194d927d39b2bb
+456	511	1652441084021874384	untitled	caf1dd27e1a083f6
